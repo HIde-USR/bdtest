@@ -1,0 +1,17 @@
+{
+    "AC_LIST": {
+        "AC": "apresentação(oi/olá)\ndefinir um nome de usuário no banco de dados\nconversas simples como um 'bom dia'\n"
+    },
+
+    "AP": {
+        "ap": ["oi", "olá"],
+        "ap_adv": ["olá, como vai?", "olá, tudo bem?"],
+        "ap_end": ["que bom!!!!", "que pena..."]
+    },
+    "AP_D": {
+        "ap": ["olá, bom dia!", "oi, bom dia!", "bom dia!"],
+        "ap_adv": ["bom dia, como vai?", "bom dia, como está?"],
+        "ap_adv_end": ["que bom que está bem!!!!", "que pena, espero que melhore..."]
+    }
+
+}
